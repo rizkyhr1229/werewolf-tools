@@ -1,0 +1,16 @@
+{
+  "name": "Werewolf Moderator Tools",
+  "short_name": "WW Mod",
+  "start_url": "ww.html",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#cc0000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/6122/6122582.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
